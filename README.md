@@ -25,3 +25,14 @@ $ code .
 
 Karol@Karol-PC MINGW64 ~/Desktop/teste200/teste200 (main)
 $
+
+clone do teste 200
+
+1- criar pasta 
+2- botao direito e abrir "git bash"
+3- Criar repositorio no github 
+4- clonar repositorio com o git bash
+  4.1: copiar link url 
+  4.2: Digitar no terminal o comando:  git clone "url"
+
+5- abrir projeto  
